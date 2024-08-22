@@ -17,3 +17,5 @@
 <li>Flexbox: For flexible layout design.</li>
 <li>Grid: For grid-based layout.</li>
 </ul>
+<h3>Contributing</h3>
+<p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
