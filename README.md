@@ -3,17 +3,17 @@
 
 <h3>Features</h3>
 <ul>
-Responsive Design: The layout adjusts to different screen sizes for a better user experience on both desktop and mobile devices.
-Product Listing: Display of products with images, titles, prices, and ratings.
-Navigation Bar: Includes links to different sections like Home, Shop, and Cart.
-Search Bar: A functional search bar to allow users to search for products (UI only, not functional).
-Footer: Contains useful links and information about the website.
+<li>Responsive Design: The layout adjusts to different screen sizes for a better user experience on both desktop and mobile devices.</li>
+<li>Product Listing: Display of products with images, titles, prices, and ratings.</li>
+<li>Navigation Bar: Includes links to different sections like Home, Shop, and Cart.</li>
+<li>Search Bar: A functional search bar to allow users to search for products (UI only, not functional).</li>
+<li>Footer: Contains useful links and information about the website.</li>
 </ul>
 
 <h3>Technologies Used</h3>
 <ul>
-HTML5: For structuring the content.
-CSS3: For styling and layout.
-Flexbox: For flexible layout design.
-Grid: For grid-based layout.
+<li>HTML5: For structuring the content.</li>
+<li>CSS3: For styling and layout.</li>
+<li>Flexbox: For flexible layout design.</li>
+<li>Grid: For grid-based layout.</li>
 </ul>
